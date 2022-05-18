@@ -4,7 +4,7 @@ Hi 👋 My name is Sai Pranav Y
 A Cloud Enthusiast and Developer
 --------------------------------
 
-I am a Cloud Enthusiast as I developed an interest in it after learning its features. I love to create new things and eagerly wait for the results. When it comes to making things, I love to try all of the technologies in the world and check them out. I am a vivid anime watcher and a manga reader. I am also a fan-fiction and action story writer with a decent read count on Wattpad. I also compose music (mostly EDM). My ambition is to lead a decent life and live with satisfaction.
+I am currently appointed as the Technical Lead of Developers Student Society, VJIT. It is a club in which students are motivated to pursue their passion in technology and learn more about coding. I am a Cloud Enthusiast as I developed an interest in it after learning its features. I love to create new things and eagerly wait for the results. When it comes to making things, I love to try all of the technologies in the world and check them out. I am a vivid anime watcher and a manga reader. I am also a fan-fiction and action story writer with a decent read count on Wattpad. I also compose music (mostly EDM). I am also a keyboard player and performed on various occasions. I follow the motto, "No Pain, No Gain." This quote always motivates me to work hard and never give up and reach the destination. My ambition is to lead a decent life and live with satisfaction.
 
 * 🌍  I'm based in Hyderabad, Telangana
 * 🖥️  See my portfolio at [My Portfolio](http://www.gitshowcase.com/saipranav-y)
